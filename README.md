@@ -4,7 +4,7 @@ A sleek and interactive web application designed to dynamically populate placeho
 
 ## Live Demo 
 
-Please visit https://promptfiller.netlify.app for a live demo. 
+Please visit https://steady-stroopwafel-a32e72.netlify.app for a live demo. 
 
 ## Features
 
